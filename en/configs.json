@@ -1,0 +1,18 @@
+{
+    "lang": {
+        "name": "Language",
+        "description": "The language for me to use to talk to you.\nIf the server's language is forced, this setting will have no effect on users."
+    },
+    "override_guild_lang": {
+        "name": "Force server language",
+        "description": "Force using the language of this server instead of using every single user's language."
+    },
+    "log_channel_id": {
+        "name": "Logs channel",
+        "description": "The channel where moderation logs will be sent."
+    },
+    "ping_on_reply": {
+        "name": "Ping when replying",
+        "description": "Pings you when I reply to your messages."
+    }
+}

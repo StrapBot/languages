@@ -1,0 +1,16 @@
+{
+    "aliases": ["rockpaperscissors"],
+    "short_doc": "Play Rock Paper Scissors with me.",
+    "params": {
+        "choice": {
+            "name": "choice",
+            "description": "Rock, paper or scissors?"
+        }
+    },
+    "win": "I chose **{bot_choice}**, but you chose **{user_choice}**, so you win.",
+    "lose": "You chose **{user_choice}**, but I chose **{bot_choice}**, so I win!",
+    "tie": "We both chose **{user_choice}**, so it's a tie.",
+    "rock": "rock",
+    "paper": "paper",
+    "scissors": "scissors"
+}

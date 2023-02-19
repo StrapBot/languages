@@ -1,0 +1,7 @@
+{
+    "short_doc": "Invite me to your server!",
+    "title": "Invite me!",
+    "link": "If you want to invite me, you can do it [here]({invite_link}).",
+    "support_link": "If you want to invite me, you can do it [here]({invite_link}).\nAlso, if you want, you can [join my server]({support_guild_link})!",
+    "footer": "Thank you!"
+}

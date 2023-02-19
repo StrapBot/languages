@@ -1,0 +1,22 @@
+{
+    "short_doc": "Mostra questo messaggio.",
+    "params": {
+        "command": {
+            "name": "comando",
+            "description": "Un comando, se vuoi più informazioni su quello."
+        }
+    },
+    "title": "Riguardo me",
+    "footer": "Usa i pulsanti qui sotto per cominciare.",
+    "based_on_strapbot": " basato su StrapBot",
+    "my_server": "Credo che potrebbe farti comodo anche [il mio server]({my_guild}).",
+    "cog_help_footer": "Puoi anche scrivere \"{prefix}help <comando>\" per più informazioni su un comando.",
+    "cog_commands_field_title": "Comandi",
+    "command_not_found": "Non ho un comando chiamato \"{name}\".",
+    "command_no_description": "Nessuna descrizione.",
+    "subcommand_not_found": "Il comando \"{name}\" non ha un sottocomando chiamato \"{subname}\".",
+    "subcommands_field_title": "Sotto-comandi",
+    "user_has_permissions": "Hai i permessi necessari per avviare questo comando.",
+    "user_has_no_permissions": "Non hai i permessi necessari per avviare questo comando.",
+    "params_field_title": "Parametri"
+}

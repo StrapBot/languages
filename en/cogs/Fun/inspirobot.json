@@ -1,0 +1,5 @@
+{
+    "aliases": [],
+    "short_doc": "Send an InspiroBot quote.",
+    "sent": "Here's the InspiroBot quote you asked for.\n\n[`Image URL`]({url})"
+}

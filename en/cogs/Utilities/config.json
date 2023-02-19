@@ -1,0 +1,10 @@
+{
+    "short_doc": "Change the bot's settings.",
+    "mod_choice": "Which settings do you want to edit?",
+    "guild_button_label": "Server settings",
+    "user_button_label": "User settings",
+    "choose_config": "Choose a configuration to change below.",
+    "current_conf": "Currently set to: **{current}**",
+    "bool_disable": "Disable",
+    "bool_enable": "Enable"
+}

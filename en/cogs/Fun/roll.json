@@ -1,0 +1,12 @@
+{
+    "aliases": [],
+    "short_doc": "Roll a dice.",
+    "result": "Your number is `{num}`.",
+    "file": "Your number has been written in the file below.",
+    "params": {
+        "max": {
+            "name": "maximum",
+            "description": "The maximum number on your dice."
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "short_doc": "Loads an extension.",
+    "done": "Extension `{extension}` loaded successfully.",
+    "error": "Couldn't load `{extension}`, check logs for error."
+}

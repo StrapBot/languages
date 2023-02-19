@@ -1,0 +1,10 @@
+{
+    "short_doc": "Cambia le impostazioni del bot.",
+    "mod_choice": "Quali impostazioni vuoi modificare?",
+    "guild_button_label": "Impostazioni server",
+    "user_button_label": "Impostazioni utente",
+    "choose_config": "Scegli un opzione da cambiare tra quelle qui sotto.",
+    "current_conf": "Al momento impostato a: **{current}**",
+    "bool_disable": "Disattiva",
+    "bool_enable": "Attiva"
+}

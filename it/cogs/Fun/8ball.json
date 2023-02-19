@@ -1,0 +1,11 @@
+{
+    "aliases": ["8b", "p8"],
+    "short_doc": "Chiedi una domanda alla Magic 8 Ball.",
+    "details": "La domanda deve finire con un punto interrogativo.",
+    "params": {
+        "question": {
+            "name": "domanda",
+            "description": "La domanda da chiedere alla Magic 8 Ball."
+        }
+    }
+}

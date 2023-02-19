@@ -1,0 +1,5 @@
+{
+    "short_doc": "Ricarica un estensione.",
+    "done": "L'estensione `{extension}` è stata ricaricata con successo.",
+    "error": "Non sono riuscito a ricaricare `{extension}`, controlla i log per l'errore."
+}

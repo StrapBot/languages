@@ -1,0 +1,5 @@
+{
+    "short_doc": "Reloads an extension.",
+    "done": "Extension `{extension}` reloaded successfully.",
+    "error": "Couldn't reload `{extension}`, check logs for error."
+}

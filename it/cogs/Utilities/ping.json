@@ -1,0 +1,4 @@
+{
+    "short_doc": "Controlla la latenza del websocket.",
+    "pong": "Pong! :ping_pong:\nLatenza del websocket: {websocket_latency}ms.\nLatenza in richiesta: {request_latency}ms."
+}

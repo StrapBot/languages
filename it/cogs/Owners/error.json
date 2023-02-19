@@ -1,0 +1,5 @@
+{
+    "short_doc": "Da il traceback intero di un errore.",
+    "file": "Il traceback è troppo lungo, lo mando in un file.",
+    "not_found": "Non ho trovato errori con quell'ID."
+}

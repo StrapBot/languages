@@ -1,0 +1,12 @@
+{
+    "aliases": [],
+    "short_doc": "Lancia un dado.",
+    "result": "Il tuo numero è `{num}`.",
+    "file": "Il tuo numero è stato scritto nel file qua sotto.",
+    "params": {
+        "max": {
+            "name": "massimo",
+            "description": "Il numero massimo nel tuo dado, dev'essere più grande o uguale a 1."
+        }
+    }
+}

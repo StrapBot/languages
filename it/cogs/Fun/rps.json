@@ -1,0 +1,17 @@
+{
+    "aliases": ["rockpaperscissors", "scf", "sassocartaforbici"],
+    "short_doc": "Gioca a Sasso Carta Forbici con me.",
+    "details": "Nota: La scelta può essere scritta solo in inglese per ora (`rock`, `paper` e `scissors` invece di `sasso`, `carta` e `forbici`).",
+    "params": {
+        "choice": {
+            "name": "scelta",
+            "description": "Sasso, carta o forbici?"
+        }
+    },
+    "win": "Io ho scelto **{bot_choice}**, ma tu hai scelto **{user_choice}**, quindi hai vinto.",
+    "lose": "Hai scelto **{user_choice}**, io invece ho scelto **{bot_choice}**, perciò ho vinto io!",
+    "tie": "Anch'io ho scelto **{user_choice}**, quindi siamo pari.",
+    "rock": "sasso",
+    "paper": "carta",
+    "scissors": "forbici"
+}

@@ -1,0 +1,18 @@
+{
+    "lang": {
+        "name": "Lingua",
+        "description": "La lingua che devo usare per parlarti.\nSe la lingua del server viene forzata, questa impostazione non avrà effetto sugli utenti."
+    },
+    "override_guild_lang": {
+        "name": "Forza la lingua del server",
+        "description": "Forza l'uso della lingua impostata per questo server invece di usare quella impostata dal singolo utente."
+    },
+    "log_channel_id": {
+        "name": "Canale dei log",
+        "description": "Il canale dove i log della moderazione verranno inviati."
+    },
+    "ping_on_reply": {
+        "name": "Tag in risposta",
+        "description": "Per taggarti quando rispondo ai tuoi messaggi."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "short_doc": "Invitami al tuo server!",
+    "title": "Invitami!",
+    "link": "Se vuoi invitarmi, puoi farlo con [questo link]({invite_link}).",
+    "support_link": "Se vuoi invitarmi, puoi farlo con [questo link]({invite_link}).\nPoi, se vuoi, puoi [entrare nel mio server]({support_guild_link})!",
+    "footer": "Grazie!"
+}

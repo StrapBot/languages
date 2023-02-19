@@ -1,0 +1,5 @@
+{
+    "short_doc": "Get the full traceback of an uncaught exception.",
+    "file": "The traceback is too long, I'm sending it as a file.",
+    "not_found": "Couldn't find any error with that ID."
+}

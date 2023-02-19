@@ -1,0 +1,12 @@
+{
+    "aliases": ["scegli"],
+    "short_doc": "Sceglie tra più opzioni, divise tra una vigola.",
+    "usage": "<scelta1>,<scelta2>,[scelta3],[...]",
+    "file": "La tua scelta è stata scritta nel file qui sotto.",
+    "params": {
+        "choices": {
+            "name": "opzioni",
+            "description": "Le opzioni da scegliere, divise da una virgola."
+        }
+    }
+}

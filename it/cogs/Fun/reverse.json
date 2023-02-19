@@ -1,0 +1,11 @@
+{
+    "aliases": [],
+    "short_doc": "Inverte il tuo testo.",
+    "file": "Il tuo messaggio invertito è stato scritto nel file qui sotto.",
+    "params": {
+        "text": {
+            "name": "testo",
+            "description": "Il tuo testo da invertire."
+        }
+    }
+}

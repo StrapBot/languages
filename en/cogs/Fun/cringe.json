@@ -1,0 +1,11 @@
+{
+    "aliases": [],
+    "short_doc": "Makes your text look cringy.",
+    "file": "Your cringe message has been written in the file below.",
+    "params": {
+        "text": {
+            "name": "text",
+            "description": "Your text to cringify."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "aliases": [],
+    "short_doc": "Choose between multiple options, split by comma.",
+    "usage": "<choice1>,<choice2>,[choice3],[...]",
+    "file": "The choice has been written in the file below.",
+    "params": {
+        "choices": {
+            "name": "options",
+            "description": "Your options to choose, split by a comma."
+        }
+    }
+}

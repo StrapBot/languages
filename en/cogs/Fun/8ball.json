@@ -1,0 +1,11 @@
+{
+    "aliases": ["8b"],
+    "short_doc": "Ask the Magic 8 Ball a question.",
+    "details": "The question must end with a question mark.",
+    "params": {
+        "question": {
+            "name": "question",
+            "description": "The question to ask to the Magic 8 Ball."
+        }
+    }
+}

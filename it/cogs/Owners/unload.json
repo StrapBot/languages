@@ -1,0 +1,5 @@
+{
+    "short_doc": "Scarica un estensione.",
+    "done": "L'estensione `{extension}` è stata scaricata con successo.",
+    "error": "Non sono riuscito a scaricare `{extension}`, controlla i log per l'errore."
+}

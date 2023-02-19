@@ -1,0 +1,5 @@
+{
+    "short_doc": "Unloads an extension.",
+    "done": "Extension `{extension}` unloaded successfully.",
+    "error": "Couldn't unload `{extension}`, check logs for error."
+}

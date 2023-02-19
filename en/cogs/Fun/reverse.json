@@ -1,0 +1,11 @@
+{
+    "aliases": [],
+    "short_doc": "Reverse your text.",
+    "file": "Your reversed message has been written in the file below.",
+    "params": {
+        "text": {
+            "name": "text",
+            "description": "Your text to reverse."
+        }
+    }
+}
