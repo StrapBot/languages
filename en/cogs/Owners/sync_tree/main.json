@@ -1,0 +1,4 @@
+{
+    "short_doc": "Syncs the main server's command tree for slash commands.",
+    "done": "The main server's command tree has been synced successfully."
+}
