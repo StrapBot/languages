@@ -1,4 +1,5 @@
 {
     "short_doc": "Syncs the server's command tree for slash commands.",
+    "running": "Syncing the server's tree...\nThis might take a lot of time, so go drink a coffee in the meantime.",
     "done": "Server command tree synced successfully."
 }

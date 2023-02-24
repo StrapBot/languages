@@ -1,4 +1,5 @@
 {
     "short_doc": "Sincronizza la tree globale per i comandi slash.",
+    "running": "Sto sincronizzando la tree globale...\nPotrebbe volerci un sacco di tempo, quindi vai a bere un caffé nel frattempo.",
     "done": "Tree globale aggiornata con successo."
 }
