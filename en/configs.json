@@ -14,5 +14,9 @@
     "ping_on_reply": {
         "name": "Ping when replying",
         "description": "Pings you when I reply to your messages."
+    },
+    "yt_news_channel_id": {
+        "name": "YouTube Notifications Channel",
+        "description": "The channel where YouTube notifications will be sent."
     }
 }

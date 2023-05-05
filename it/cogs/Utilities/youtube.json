@@ -1,0 +1,21 @@
+{
+    "short_doc": "Iscrive questo server ad un canale YouTube.",
+    "missing_config": "Non hai impostato l'impostazione \"Canale notifiche di YouTube\", prima di poter usare questo comando devi impostarlo.",
+    "main_menu": "Cosa vuoi fare?",
+    "searching": "Sto cercando dei canali, potrei metterci tra qualche secondo e uno o due minuti...",
+    "results_embed_title": "Risultati di ricerca",
+    "no_results": "Non sono riuscito a trovare canali che corrispondevano alla query.",
+    "mising_desc": "Nessuna descrizione.",
+    "added": "Va bene, ho iscritto questo server a **{youtuber}**. Le notifiche saranno mandate a {channel}.",
+    "already_added": "Questo server è già iscritto a quel canale.",
+    "btn_choose": "Iscrivi",
+    "btn_add": "Iscrivi",
+    "channels_list": "Lista dei canali iscritti",
+    "btn_list": "Lista canali",
+    "delete_embed_title": "Da quale canale vuoi disiscriverti?",
+    "btn_del": "Disiscrivi",
+    "deleted": "Certo, ho disiscritto il server da **{youtuber}**.",
+    "btn_delete": "Disiscrivi",
+    "error": "C'è stato un errore, riprova più tardi.",
+    "channels_empty": "Questo server non è iscritto a nessun canale."
+}

@@ -1,0 +1,21 @@
+{
+    "short_doc": "Subscribes this server to a YouTube channel.",
+    "missing_config": "You haven't set up the \"YouTube Notifications Channel\" setting, you must set it before you can use this command.",
+    "main_menu": "What do you want to do?",
+    "searching": "Searching for channels, this might take between some seconds and a minute or two...",
+    "results_embed_title": "Search results",
+    "no_results": "I couldn't find any channels matching that query.",
+    "mising_desc": "No description.",
+    "added": "Okay, I subscribed this server to **{youtuber}**. Notifications will be sent to {channel}.",
+    "already_added": "This server is already subscribed to that channel.",
+    "btn_choose": "Subscribe",
+    "btn_add": "Subscribe",
+    "channels_list": "List of subscribed channels",
+    "btn_list": "List channels",
+    "delete_embed_title": "Which channel do you want to unsubscribe?",
+    "btn_del": "Unsubscribe",
+    "deleted": "Sure, I unsubscribed this server from **{youtuber}**.",
+    "btn_delete": "Unsubscribe",
+    "error": "An error occurred, please try again later.",
+    "channels_empty": "This server isn't subscribed to any channel."
+}

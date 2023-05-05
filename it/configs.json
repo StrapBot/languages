@@ -14,5 +14,9 @@
     "ping_on_reply": {
         "name": "Tag in risposta",
         "description": "Per taggarti quando rispondo ai tuoi messaggi."
+    },
+    "yt_news_channel_id": {
+        "name": "Canale notifiche di YouTube",
+        "description": "Il canale dove le notifiche di YouTube saranno inviate."
     }
 }
