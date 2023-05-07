@@ -9,6 +9,8 @@
     "added": "Okay, I subscribed this server to **{youtuber}**. Notifications will be sent to {channel}.",
     "already_added": "This server is already subscribed to that channel.",
     "btn_choose": "Subscribe",
+    "add_modal_title": "Search",
+    "channel_input_label": "Channel name",
     "btn_add": "Subscribe",
     "channels_list": "List of subscribed channels",
     "btn_list": "List channels",

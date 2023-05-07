@@ -9,6 +9,8 @@
     "added": "Va bene, ho iscritto questo server a **{youtuber}**. Le notifiche saranno mandate a {channel}.",
     "already_added": "Questo server è già iscritto a quel canale.",
     "btn_choose": "Iscrivi",
+    "add_modal_title": "Cerca",
+    "channel_input_label": "Nome del canale",
     "btn_add": "Iscrivi",
     "channels_list": "Lista dei canali iscritti",
     "btn_list": "Lista canali",
