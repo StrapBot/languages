@@ -8,5 +8,6 @@
     "bool_disable": "Disattiva",
     "bool_enable": "Attiva",
     "value_input_label": "Valore",
-    "set": "Imposta"
+    "set": "Imposta",
+    "value_error": "Ehm... non penso che funzioni. Riprova con qualcos'altro!"
 }

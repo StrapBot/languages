@@ -8,5 +8,6 @@
     "bool_disable": "Disable",
     "bool_enable": "Enable",
     "value_input_label": "Value",
-    "set": "Set"
+    "set": "Set",
+    "value_error": "That's... not gonna work. Try again with something different!"
 }
