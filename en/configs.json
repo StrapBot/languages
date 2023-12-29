@@ -16,7 +16,11 @@
         "description": "Pings you when I reply to your messages."
     },
     "yt_news_channel_id": {
-        "name": "YouTube Notifications Channel",
+        "name": "YouTube Video notifications channel",
         "description": "The channel where YouTube notifications will be sent."
+    },
+    "yt_news_message": {
+        "name": "YouTube Video message",
+        "description": "The message to send when a new video is uploaded."
     }
 }

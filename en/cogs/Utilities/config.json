@@ -7,5 +7,6 @@
     "current_conf": "Currently set to: **{current}**",
     "bool_disable": "Disable",
     "bool_enable": "Enable",
-    "value_input_label": "Value"
+    "value_input_label": "Value",
+    "set": "Set"
 }

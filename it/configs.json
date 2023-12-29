@@ -8,7 +8,7 @@
         "description": "Forza l'uso della lingua impostata per questo server invece di usare quella impostata dal singolo utente."
     },
     "log_channel_id": {
-        "name": "Canale dei log",
+        "name": "Canale log",
         "description": "Il canale dove i log della moderazione verranno inviati."
     },
     "ping_on_reply": {
@@ -16,7 +16,11 @@
         "description": "Per taggarti quando rispondo ai tuoi messaggi."
     },
     "yt_news_channel_id": {
-        "name": "Canale notifiche di YouTube",
+        "name": "Canale notifiche video YouTube",
         "description": "Il canale dove le notifiche di YouTube saranno inviate."
+    },
+    "yt_news_message": {
+        "name": "Messaggio video YouTube",
+        "description": "Il messaggio da inviare quando un nuovo video viene caricato."
     }
 }

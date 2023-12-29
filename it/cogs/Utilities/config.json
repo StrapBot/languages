@@ -7,5 +7,6 @@
     "current_conf": "Al momento impostato a: **{current}**",
     "bool_disable": "Disattiva",
     "bool_enable": "Attiva",
-    "value_input_label": "Valore"
+    "value_input_label": "Valore",
+    "set": "Imposta"
 }
