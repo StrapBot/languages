@@ -22,5 +22,13 @@
     "yt_news_message": {
         "name": "YouTube Video message",
         "description": "The message to send when a new video is uploaded."
+    },
+    "muted_role_id": {
+        "name": "Muted role",
+        "description": "The role to give to users to mute."
+    },
+    "timeout": {
+        "name": "Timeout",
+        "description": "Whether to use Discord's timeout instead of the mute role."
     }
 }

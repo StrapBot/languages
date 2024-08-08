@@ -22,5 +22,13 @@
     "yt_news_message": {
         "name": "Messaggio video YouTube",
         "description": "Il messaggio da inviare quando un nuovo video viene caricato."
+    },
+    "muted_role_id": {
+        "name": "Ruolo mutato",
+        "description": "Il ruolo da dare agli utenti per mutarli."
+    },
+    "timeout": {
+        "name": "Timeout",
+        "description": "Se usare il timeout di Discord invece del ruolo per mutarli."
     }
 }
