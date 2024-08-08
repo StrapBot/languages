@@ -7,28 +7,40 @@
         "name": "Forza la lingua del server",
         "description": "Forza l'uso della lingua impostata per questo server invece di usare quella impostata dal singolo utente."
     },
-    "log_channel_id": {
-        "name": "Canale log",
-        "description": "Il canale dove i log della moderazione verranno inviati."
+    "moderation": {
+        "name": "Moderazione",
+        "description": "Impostazioni per la moderazione del server.",
+        "items": {
+            "log_channel_id": {
+                "name": "Canale log",
+                "description": "Il canale dove i log verranno inviati."
+            },
+            "muted_role_id": {
+                "name": "Ruolo mutato",
+                "description": "Il ruolo da dare agli utenti per mutarli."
+            },
+            "timeout": {
+                "name": "Timeout",
+                "description": "Se usare il timeout di Discord invece del ruolo per mutarli."
+            }
+        }
     },
     "ping_on_reply": {
         "name": "Tag in risposta",
         "description": "Per taggarti quando rispondo ai tuoi messaggi."
     },
-    "yt_news_channel_id": {
-        "name": "Canale notifiche video YouTube",
-        "description": "Il canale dove le notifiche di YouTube saranno inviate."
-    },
-    "yt_news_message": {
-        "name": "Messaggio video YouTube",
-        "description": "Il messaggio da inviare quando un nuovo video viene caricato."
-    },
-    "muted_role_id": {
-        "name": "Ruolo mutato",
-        "description": "Il ruolo da dare agli utenti per mutarli."
-    },
-    "timeout": {
-        "name": "Timeout",
-        "description": "Se usare il timeout di Discord invece del ruolo per mutarli."
+    "yt_news": {
+        "name": "Notifiche video YouTube",
+        "description": "Per ricevere notifiche quando un nuovo video viene caricato su YouTube.",
+        "items": {
+            "channel_id": {
+                "name": "Canale",
+                "description": "Il canale dove le notifiche di YouTube saranno inviate."
+            },
+            "message": {
+                "name": "Messaggio",
+                "description": "Il messaggio da inviare quando un nuovo video viene caricato."
+            }
+        }
     }
 }

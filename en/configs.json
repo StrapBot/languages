@@ -7,28 +7,40 @@
         "name": "Force server language",
         "description": "Force using the language of this server instead of using every single user's language."
     },
-    "log_channel_id": {
-        "name": "Logs channel",
-        "description": "The channel where moderation logs will be sent."
+    "moderation": {
+        "name": "Moderation",
+        "description": "Settings for server moderation.",
+        "items": {
+            "log_channel_id": {
+                "name": "Logs channel",
+                "description": "The channel where moderation logs will be sent."
+            },
+            "muted_role_id": {
+                "name": "Muted role",
+                "description": "The role to give to users to mute."
+            },
+            "timeout": {
+                "name": "Timeout",
+                "description": "Whether to use Discord's timeout instead of the mute role."
+            }
+        }
     },
     "ping_on_reply": {
         "name": "Ping when replying",
         "description": "Pings you when I reply to your messages."
     },
-    "yt_news_channel_id": {
-        "name": "YouTube Video notifications channel",
-        "description": "The channel where YouTube notifications will be sent."
-    },
-    "yt_news_message": {
-        "name": "YouTube Video message",
-        "description": "The message to send when a new video is uploaded."
-    },
-    "muted_role_id": {
-        "name": "Muted role",
-        "description": "The role to give to users to mute."
-    },
-    "timeout": {
-        "name": "Timeout",
-        "description": "Whether to use Discord's timeout instead of the mute role."
+    "yt_news": {
+        "name": "YouTube Video notifications",
+        "description": "To receive notifications when a new video is uploaded on YouTube.",
+        "items": {
+            "channel_id": {
+                "name": "Channel",
+                "description": "The channel where YouTube notifications will be sent."
+            },
+            "message": {
+                "name": "Message",
+                "description": "The message to send when a new video is uploaded."
+            }
+        }
     }
 }
