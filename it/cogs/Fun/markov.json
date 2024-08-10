@@ -1,0 +1,4 @@
+{
+    "aliases": [],
+    "short_doc": "Genera un messaggio usando il processo Markov.\n\nQuesto comando è disponibile solo se la generazione messaggi è abilitata, e funzionerà solo se ho dei dati."
+}
