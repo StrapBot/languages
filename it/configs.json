@@ -39,7 +39,38 @@
             },
             "message": {
                 "name": "Messaggio",
-                "description": "Il messaggio da inviare quando un nuovo video viene caricato."
+                "description": "Il messaggio da inviare quando un nuovo video viene caricato.",
+                "inputs": {
+                    "message": "Messaggio"
+                }
+            }
+        }
+    },
+    "markov": {
+        "name": "Generazione Testo",
+        "description": "Impostazioni per il generatore di testo che usa il processo Markov.*\n**Tutti i messaggi generati da me sono casuali ed usano solo parole inviate dalle persone in precedenza.*",
+        "items": {
+            "enabled": {
+                "name": "Abilita",
+                "description": "Se attivare la registrazione e generazione di messaggi.\n\nDei messaggi, verranno inserite nel mio database solo le parole e il numero di volte in cui vengono usate, quindi non salverò i messaggi completi.\n\nQuesti dati verranno usati solo ed esclusivamente per generare nuovi messaggi in modo casuale, e non verranno **MAI** venduti o usati per altri scopi.",
+                "markov_enabled": "La generazione dei messaggi con Markov è stata attivata ed il canale è stato automaticamente impostato a questo."
+            },
+            "channel_id": {
+                "name": "Canale",
+                "description": "Il canale dal quale registrare i messaggi e generarne di nuovi",
+                "channel_history_fetch": "Vuoi che io scarichi la cronologia dei messaggi di questo canale per avere messaggi migliori?",
+                "cancelled": "Non scaricherò la cronologia dei messaggi, però comincerò a registrare i messaggi dal prossimo.",
+                "learning": "Sto elaborando la cronologia dei messaggi, questo potrebbe richiedere moltissimo tempo in base al numero di messaggi in questo canale.",
+                "done": "Fatto. Ora comincerò a registrare messaggi e rispondere con messaggi generati. Divertitevi!"
+            },
+            "messages": {
+                "name": "Messaggi",
+                "description": "Impostazioni sui messaggi generati da me.\n\nPuoi impostare intervallo casuale tra un minimo e un massimo di messaggi (tra 2 e 100) che verranno inviati prima che io ne generi uno.\n\nPosso mandare un messaggio con massimo 100 parole, ma puoi anche impostare un numero più piccolo.",
+                "inputs": {
+                    "min": "Intervallo minimo di messaggi",
+                    "max": "Intervallo massimo di messaggi",
+                    "words": "Numero massimo di parole"
+                }
             }
         }
     }
