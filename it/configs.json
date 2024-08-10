@@ -58,9 +58,9 @@
             "channel_id": {
                 "name": "Canale",
                 "description": "Il canale dal quale registrare i messaggi e generarne di nuovi",
-                "channel_history_fetch": "Vuoi che io scarichi la cronologia dei messaggi di questo canale per avere messaggi migliori?",
+                "channel_history_fetch": "Vuoi che io scarichi la cronologia dei messaggi del canale per avere messaggi migliori?",
                 "cancelled": "Non scaricherò la cronologia dei messaggi, però comincerò a registrare i messaggi dal prossimo.",
-                "learning": "Sto elaborando la cronologia dei messaggi, questo potrebbe richiedere moltissimo tempo in base al numero di messaggi in questo canale.",
+                "learning": "Sto elaborando la cronologia dei messaggi, questo potrebbe richiedere moltissimo tempo in base al numero di messaggi nel canale.",
                 "done": "Fatto. Ora comincerò a registrare messaggi e rispondere con messaggi generati. Divertitevi!"
             },
             "messages": {

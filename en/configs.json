@@ -58,9 +58,9 @@
             "channel_id": {
                 "name": "Channel",
                 "description": "The channel from which to record messages and generate new ones.",
-                "channel_history_fetch": "Do you want me to fetch the message history of this channel to generate better messages?",
+                "channel_history_fetch": "Do you want me to fetch the message history of the channel to generate better messages?",
                 "cancelled": "I won't fetch the message history, but I will start recording messages from the next one.",
-                "learning": "I'm processing the message history of this channel, this may take a very long time depending on the number of messages in this channel.",
+                "learning": "I'm processing the message history of the channel, this may take a very long time depending on the number of messages in this channel.",
                 "done": "Done. I will now start recording messages and replying with generated messages. Have fun!"
             },
             "messages": {
