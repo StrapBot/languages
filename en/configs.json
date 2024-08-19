@@ -73,5 +73,9 @@
                 }
             }
         }
+    },
+    "markov_add_my_messages": {
+        "name": "Use my messages",
+        "description": "Whether to add your message to the database for generating new messages."
     }
 }

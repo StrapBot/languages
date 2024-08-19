@@ -73,5 +73,9 @@
                 }
             }
         }
+    },
+    "markov_add_my_messages": {
+        "name": "Usa i miei messaggi",
+        "description": "Se includere i tuoi messaggi nella generazione di testo."
     }
 }
