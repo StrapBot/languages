@@ -1,0 +1,20 @@
+{
+    "aliases": [],
+    "short_doc": "Check your extension's approval/running status.",
+    "none": "There isn't a custom extension waiting for approval.",
+    "title": "Your Custom Extension Status",
+    "pending": "pending approval",
+    "ok": "The custom extension is **running**.",
+    "setting": "The custom extension is currently *being set up* and will run soon if no errors occur.",
+    "errored": "The custom extension has errors and **cannot** be loaded.",
+    "denied": "The custom extension has been **denied**.",
+    "maybe_blocking": "It has instructions that may block the bot's event loop.",
+    "no_requirements": "It has no requirements specified, but imports external modules.",
+    "bad_requirements": "It has invalid or non-existing requirements.",
+    "private_git": "It is in a private Git repository.",
+    "not_found": "The given URL returned a 404 Not Found status code.",
+    "security": "It has (potential) security vulnerabilities.",
+    "backdoor": "It has a backdoor or malicious code.",
+    "invalid_python": "It has syntax errors, invalid code or isn't a Python file.",
+    "missing_setup": "It is missing a setup function to add the cog."
+}

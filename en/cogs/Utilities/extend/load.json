@@ -1,0 +1,14 @@
+{
+    "aliases": [],
+    "short_doc": "Add a custom extension for approval.\nMust follow the extension guidelines.",
+    "params": {
+        "url": {
+            "name": "url",
+            "description": "The URL of the extension to load. Must be a valid Python file URL or a Git repository URL."
+        },
+        "name": {
+            "name": "filename",
+            "description": "Required if the URL is a Git repo URL. The filename of the extension to load. Defaults to main.py."
+        }
+    }
+}

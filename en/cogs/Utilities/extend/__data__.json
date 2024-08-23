@@ -1,0 +1,14 @@
+{
+    "aliases": [],
+    "short_doc": "Extend the bot's functionality with your very own code.\nMust follow the extension guidelines.",
+    "params": {
+        "url": {
+            "name": "URL",
+            "description": "The URL of the extension to load. Must be a valid Python file URL or a Git repository URL."
+        },
+        "name": {
+            "name": "Name",
+            "description": "Required if the URL is a Git repository URL. The filename of the extension to load. Defaults to main.py."
+        }
+    }
+}
