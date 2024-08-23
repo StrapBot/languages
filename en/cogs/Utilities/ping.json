@@ -1,4 +1,4 @@
 {
     "short_doc": "Checks the websocket latency.",
-    "pong": "Pong! :ping_pong:\nWebsocket latency: {websocket_latency}ms.\nRequest latency: {request_latency}ms."
+    "pong": "Pong! :ping_pong:\nWebsocket latency:  {websocket_latency}ms.\nRequest latency:  {request_latency}ms."
 }
