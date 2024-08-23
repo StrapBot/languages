@@ -10,5 +10,15 @@
             "name": "Name",
             "description": "Required if the URL is a Git repository URL. The filename of the extension to load. Defaults to main.py."
         }
-    }
+    },
+    "confirm": "**Before submitting, you have to read the [extension guidelines](<{rules_url}>)!**\nAre you sure you want to submit this extension?",
+    "time": "-# *The buttons will be enabled in 30 seconds. In the meantime, you should read the guidelines.*",
+    "btn_yes": "Yes, I'm sure",
+    "btn_no": "No, I changed my mind",
+    "done": "The extension has been submitted for approval. Please wait for a staff member to review it.",
+    "cancelled": "Okay. When the extension is ready, you can run the command again to submit it.",
+
+
+
+    "_note_to_remove": "TODO: make it get the translations from load.json so we won't have duplicates"
 }

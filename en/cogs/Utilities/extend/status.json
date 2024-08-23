@@ -16,5 +16,6 @@
     "security": "It has (potential) security vulnerabilities.",
     "backdoor": "It has a backdoor or malicious code.",
     "invalid_python": "It has syntax errors, invalid code or isn't a Python file.",
-    "missing_setup": "It is missing a setup function to add the cog."
+    "missing_setup": "It is missing a setup function to add the cog.",
+    "tos": "It violates the Discord Terms of Service."
 }
