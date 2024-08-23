@@ -3,7 +3,7 @@
     "short_doc": "Check your extension's approval/running status.",
     "none": "There isn't a custom extension waiting for approval.",
     "title": "Your Custom Extension Status",
-    "pending": "pending approval",
+    "pending": "The custom extension is still **pending approval**.",
     "ok": "The custom extension is **running**.",
     "setting": "The custom extension is currently *being set up* and will run soon if no errors occur.",
     "errored": "The custom extension has errors and **cannot** be loaded.",
