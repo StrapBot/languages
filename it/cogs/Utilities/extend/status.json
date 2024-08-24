@@ -1,0 +1,21 @@
+{
+    "aliases": [],
+    "short_doc": "Controlla lo stato dell'estensione per questo server.",
+    "none": "Non ci sono estensioni personalizzate in questo server.",
+    "title": "Stato dell'estensione",
+    "pending": "L'estensione è ancora **in attesa** di approvazione.",
+    "ok": "L'estensione è stata **approvata** e sta funzionando correttamente.",
+    "setting": "L'estensione personalizzata è attualmente *in fase di configurazione* e verrà eseguita presto se non si verificano errori.",
+    "errored": "L'estensione ha errori e **non può** essere caricata.",
+    "denied": "L'estensione è stata **rifiutata**.",
+    "maybe_blocking": "Ha istruzioni che potrebbero bloccare il funzionamento del bot.",
+    "no_requirements": "Non ha requisiti specificati, ma importa moduli esterni.",
+    "bad_requirements": "Ha requisiti non validi o inesistenti.",
+    "private_git": "Si trova in un repository Git privato.",
+    "not_found": "L'URL fornito ha restituito un codice di stato 404 Not Found.",
+    "security": "Ha delle (potenziali) vulnerabilità di sicurezza.",
+    "backdoor": "Ha una backdoor o del codice dannoso.",
+    "invalid_python": "Ha errori di sintassi, codice non valido o non è un file Python.",
+    "missing_setup": "Non ha una funzione `setup` per aggiungere il cog.",
+    "tos": "Non rispetta i Termini di Servizio di Discord."
+}

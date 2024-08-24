@@ -1,0 +1,21 @@
+{
+    "aliases": [],
+    "short_doc": "Invia un'estensione per il server.\nDeve seguire le linee guida per le estensioni.",
+    "params": {
+        "url": {
+            "name": "URL",
+            "description": "L'URL dell'estensione da caricare. Deve essere un URL di file Python valido o un URL di repository Git."
+        },
+        "name": {
+            "name": "Nome",
+            "description": "Richiesto se l'URL è di un repository Git. Il nome del file per l'estensione da caricare (main.py)."
+        }
+    },
+    "confirm": "**Prima di inviare, devi leggere le [linee guida per le estensioni](<{rules_url}>)!**\nSei sicuro di voler inviare questa estensione?",
+    "time": "-# *I pulsanti saranno abilitati tra 30 secondi. Nel frattempo, vai a leggere le linee guida.*",
+    "btn_yes": "Sì, ne sono sicuro",
+    "btn_no": "No, ho cambiato idea",
+    "done": "L'estensione è stata inviata per l'approvazione. Attendi che un membro dello staff la esamini.",
+    "cancelled": "Okay. Quando l'estensione sarà pronta, puoi eseguire di nuovo questo comando per inviarla.",
+    "banned": "Sei stat* bannat* dalle estensioni personalizzate."
+}

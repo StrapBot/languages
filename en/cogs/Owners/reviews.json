@@ -1,0 +1,10 @@
+{
+    "aliases": [],
+    "short_doc": "Check the pending reviews for custom extensions.",
+    "no_reviews": "There are no pending reviews.",
+    "done": "You're all done! There are no more pending reviews.",
+    "btn_accept": "Approve",
+    "approved": "The extension has been approved and is being setup in the background.",
+    "sel_deny_reason": "Deny? Select a reason here.",
+    "btn_ignore": "Ignore for now"
+}

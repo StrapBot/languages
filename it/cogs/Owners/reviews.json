@@ -1,0 +1,10 @@
+{
+    "aliases": [],
+    "short_doc": "Controlla le approvazioni per le estensioni per server.",
+    "no_reviews": "Non ci sono estensioni da approvare.",
+    "done": "Hai finito! Non ci sono più estensioni da approvare.",
+    "btn_accept": "Approva",
+    "approved": "L'estensione è stata approvata e sta venendo configurata in background.",
+    "sel_deny_reason": "Da rifiutare? Seleziona un motivo qui.",
+    "btn_ignore": "Ignora per ora"
+}
